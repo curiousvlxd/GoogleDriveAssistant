@@ -10,8 +10,6 @@
     <ItemGroup>
       <PackageReference Include="Google.Apis.Drive.v3" Version="1.60.0.2986" />
       <PackageReference Include="Google.Apis.Sheets.v4" Version="1.60.0.2979" />
-      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0-preview.3.23174.8" />
-      <PackageReference Include="Quartz" Version="3.6.2" />
     </ItemGroup>
 
     <ItemGroup>
